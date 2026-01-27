@@ -1,0 +1,54 @@
+/* Typography */
+body {
+  min-height: 100vh;
+  background: radial-gradient(circle at top, #1e293b, #020617 70%);
+  color: #e5e7eb;
+  }
+
+a
+{
+  color: #B2BEB5	;
+}
+
+.header,
+.section-title,
+.title {
+  font-family: "Times New Roman", serif;
+}
+
+.text,
+.list {
+  font-family: Arial, sans-serif;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #e5e7eb;
+  margin: 40px 0;
+}
+
+/* Header */
+.title {
+  white-space: pre-wrap;
+}
+
+.profile-img {
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+/* Lists */
+.list {
+  margin-left: 20px;
+}
+
+/* Footer */
+.footer {
+  margin-top: 30px;
+  font-family: Arial, sans-serif;
+}
+
+
+
+ 
