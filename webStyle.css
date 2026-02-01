@@ -1,4 +1,6 @@
-/* Typography */
+//CSS file maintains the same format as Lab1 and adds margins
+
+//Adds the blue gradient colour
 body {
   min-height: 100vh;
   background: radial-gradient(circle at top, #1e293b, #020617 70%);
@@ -28,7 +30,6 @@ hr {
   margin: 40px 0;
 }
 
-/* Header */
 .title {
   white-space: pre-wrap;
 }
@@ -38,12 +39,10 @@ hr {
   margin-right: 10px;
 }
 
-/* Lists */
 .list {
   margin-left: 20px;
 }
 
-/* Footer */
 .footer {
   margin-top: 30px;
   font-family: Arial, sans-serif;
